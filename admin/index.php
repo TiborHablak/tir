@@ -55,7 +55,7 @@ if(!empty($chyba)){
   </button>
 </div>
 
-<?php }  ?>
+<?php }    ?>
 
 <?php  
 if(empty($chyba)){
@@ -145,14 +145,6 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
 }*/
 
  ?>
-
-
-
-
-
-
-
-
 
 
  <?php 
